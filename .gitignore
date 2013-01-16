@@ -1,0 +1,10 @@
+# Ignore roms
+*.zip
+*.gba
+
+# Ignore save states
+*.sgm
+*.sg1
+*.sg2
+*.sg3
+*.sg4
